@@ -1,6 +1,6 @@
-This project was created 03/02/2019
+This project was created 03/02/2020
 
-### Explore Bikeshare Data
+# Explore Bikeshare Data
 
 ### Description
 Explore data related to bikeshare systems for 3 major cities in the United States - Chicago, New York City, and Washington.
