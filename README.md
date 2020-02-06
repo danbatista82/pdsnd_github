@@ -6,7 +6,10 @@ This project was created 03/02/2019
 Explore data related to bikeshare systems for 3 major cities in the United States - Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+* chicago.csv
+* new_york_city.csv
+* washington.csv
+* bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Nanodegree Programming for Data Science with R
